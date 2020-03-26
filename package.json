@@ -1,0 +1,21 @@
+{
+  "name": "Dicey-Business-Conversion",
+  "version": "1.0.0",
+  "description": "Dicey Business Lab Converted to TypeScript",
+  "main": "diceybusiness.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -w"
+  },
+  "keywords": [],
+  "author": "Tremain-Ajena Jones",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.33",
+    "jquery": "^3.4.1",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
